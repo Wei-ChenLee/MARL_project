@@ -1,2 +1,3 @@
 # MARL_project
-Investigation of tendency to collude by MARL agents, in iterated prisoners' dilemma.
+
+Investigation of tendency to collude by Q-learning agents, in iterated prisoners' dilemma. Code performs various experiments set out in my MSc dissertation titled 'Tacit Collusion through Q-learning'.
